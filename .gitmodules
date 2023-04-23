@@ -1,0 +1,3 @@
+[submodule "StudentRegister"]
+	path = StudentRegister
+	url = git@github.com:SanchezrEdwin01/StudentRegister.git
